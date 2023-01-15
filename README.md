@@ -3,8 +3,6 @@ This is the Java version of my portfolio showcasing my work in C++ and OpenGL. T
 
 ![Screenshot 2023-01-15 143319](https://user-images.githubusercontent.com/110789514/212563207-3330546e-9cc5-4353-9030-610c50fb4d08.png)
 
-# Documentation
-
 ## Credits
 
 Ahn, S. H. (n.d.-b). OpenGL Sphere. http://www.songho.ca/opengl/gl_sphere.html
@@ -15,9 +13,13 @@ Brgfx. (n.d.). Wild Animals. https://www.freepik.com/free-vector/set-wild-animal
 
 DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL. GitHub. https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
 
+Fruit. (n.d.). Fruit: https://clipartart.com/categories/fruits-images-clipart.html.
+
 Gmarc. (n.d.). Animal Set in Flat Style. https://www.freepik.com/free-vector/animals-set-in-flat-style_4767470.htm
 
 Hui_u. (n.d.). colorful night sky. https://as1.ftcdn.net/v2/jpg/02/52/77/50/1000_F_252775020_qBF1RXgDQXKS7QFeu0Hd34GHLjYOWSWD.jpg
+
+Infraction. 2022. Boobass. Boobass. 2022.
 
 Infraction. 2022. Losing Control. Losing Control. 2022.
 
@@ -31,6 +33,10 @@ November1711. (n.d.). Seamless background with forest. https://as2.ftcdn.net/v2/
 
 PBR Textures.  https://freepbr.com/pbr-tutorials-resources/
 
+Pch.vector. (n.d.). Cute cartoon red fox set. https://www.freepik.com/free-vector/cute-cartoon-red-fox-set-funny-animal-character-smiling-crying-walking-playing-game-sleeping_12290956.htm#&position=19&from_view=undefined
+
+Pisut (n.d.). wings on white blackground. https://as2.ftcdn.net/v2/jpg/01/87/07/77/1000_F_187077796_e550DMG0Rf91J3dDMpXpEoo5lNB60CqU.jpg
+
 Rawpixel.com. (n.d.). Heart. https://www.freepik.com/free-vector/heart_2900812.htm
 
 Stein, Peggy (n.d.). Frillensee im Winter. https://as2.ftcdn.net/v2/jpg/00/45/85/55/1000_F_45855551_fXtSph3RnoKsKTFHW0z1BRws8Gawj3QE.jpg
@@ -38,6 +44,4 @@ Stein, Peggy (n.d.). Frillensee im Winter. https://as2.ftcdn.net/v2/jpg/00/45/85
 XtravaganT. (n.d.). Space nebula and galaxy. https://as1.ftcdn.net/v2/jpg/05/29/87/36/1000_F_529873693_V74iNOFH3z0LxitPFigGfuaU3lDxVl5P.jpg
 
 WikiImages. (n.d.). Orion Nebula. https://pixabay.com/photos/orion-nebula-emission-nebula-11107/
-
-
 
