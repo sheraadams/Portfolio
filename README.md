@@ -13,13 +13,15 @@ Arunsri. (n.d.). wings of birds on white background,green wings. https://as2.ftc
 
 Brgfx. (n.d.). Wild Animals. https://www.freepik.com/free-vector/set-wild-animal_4613359.htm
 
+DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL. GitHub. https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
+
 Gmarc. (n.d.). Animal Set in Flat Style. https://www.freepik.com/free-vector/animals-set-in-flat-style_4767470.htm
 
 Hui_u. (n.d.). colorful night sky. https://as1.ftcdn.net/v2/jpg/02/52/77/50/1000_F_252775020_qBF1RXgDQXKS7QFeu0Hd34GHLjYOWSWD.jpg
 
 Infraction. 2022. Losing Control. Losing Control. 2022.
 
-JoeyDeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL. GitHub. https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
+Jakkapan (n.d.). white angel wing isolated. https://as1.ftcdn.net/v2/jpg/00/90/60/84/1000_F_90608445_4CoFVuHPIIx4oSvNE4FQ3dKf2pa3SH8M.jpg
 
 Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-d). https://learnopengl.com/
 
@@ -36,4 +38,6 @@ Stein, Peggy (n.d.). Frillensee im Winter. https://as2.ftcdn.net/v2/jpg/00/45/85
 XtravaganT. (n.d.). Space nebula and galaxy. https://as1.ftcdn.net/v2/jpg/05/29/87/36/1000_F_529873693_V74iNOFH3z0LxitPFigGfuaU3lDxVl5P.jpg
 
 WikiImages. (n.d.). Orion Nebula. https://pixabay.com/photos/orion-nebula-emission-nebula-11107/
+
+
 
