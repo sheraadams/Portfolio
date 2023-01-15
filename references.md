@@ -28,5 +28,7 @@ Rawpixel.com. (n.d.). Heart. https://www.freepik.com/free-vector/heart_2900812.h
 
 Stein, Peggy (n.d.). Frillensee im Winter. https://as2.ftcdn.net/v2/jpg/00/45/85/55/1000_F_45855551_fXtSph3RnoKsKTFHW0z1BRws8Gawj3QE.jpg
 
+XtravaganT. (n.d.). Space nebula and galaxy. https://as1.ftcdn.net/v2/jpg/05/29/87/36/1000_F_529873693_V74iNOFH3z0LxitPFigGfuaU3lDxVl5P.jpg
+
 WikiImages. (n.d.). Orion Nebula. https://pixabay.com/photos/orion-nebula-emission-nebula-11107/
 
