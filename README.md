@@ -14,3 +14,8 @@ This is the Java version of my portfolio showcasing my work in C++ and OpenGL. T
 <div style="text-align: center;">
   <p><strong>Proudly crafted with ❤️ by <a href="https://github.com/sheraadams" target="_blank">Shera Adams</a>.</strong></p>
 </div>
+
+
+
+
+
