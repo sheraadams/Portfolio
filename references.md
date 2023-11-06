@@ -34,6 +34,8 @@ Pisut (n.d.). wings on white blackground. https://as2.ftcdn.net/v2/jpg/01/87/07/
 
 Rawpixel.com. (n.d.). Heart. https://www.freepik.com/free-vector/heart_2900812.htm
 
+Southern New Hampshire University. (n.d.). List View Template. Brightspace. Retrieved October 10, 2022, from https://learn.snhu.edu/
+
 Stein, Peggy (n.d.). Frillensee im Winter. https://as2.ftcdn.net/v2/jpg/00/45/85/55/1000_F_45855551_fXtSph3RnoKsKTFHW0z1BRws8Gawj3QE.jpg
 
 XtravaganT. (n.d.). Space nebula and galaxy. https://as1.ftcdn.net/v2/jpg/05/29/87/36/1000_F_529873693_V74iNOFH3z0LxitPFigGfuaU3lDxVl5P.jpg
